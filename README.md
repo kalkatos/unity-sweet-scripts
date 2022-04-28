@@ -8,10 +8,10 @@ Object Pool
 Keyboard Hacks
   
   Commands to debug more easily:
-  F5: slow time scale down by 0.2
-  F6: speed time scale up by 0.2
-  F7: reduce target frame rate by 5
-  F8: increase target frame rate by 5
+  <br>F5: slow time scale down by 0.2
+  <br>F6: speed time scale up by 0.2
+  <br>F7: reduce target frame rate by 5
+  <br>F8: increase target frame rate by 5
 
 Refactor Curve Bindings
 
